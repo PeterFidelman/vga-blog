@@ -1,0 +1,9 @@
+Hello World
+2019-06-04
+This is an example post that demonstrates the blogging framework, but does little else.
+
+The format of the input blog posts is raw .txt files.  The first line must be the post's title, and the second line must be the post's date written as ISO 8601.
+
+You can also write a blog post straight in HTML.  If you want to do this, just give it the file extension .htm instead of .txt.
+
+Markdown is not supported, but if you really wanted it, you could use Pandoc to convert markdown to HTML.  This could even be automated!
